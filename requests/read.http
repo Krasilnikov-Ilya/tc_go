@@ -1,0 +1,23 @@
+### GetUsers
+GET http://localhost:8080/users
+
+### GetUserById
+GET http://localhost:8080/user/1
+
+### GetCars
+GET http://localhost:8080/cars
+
+### GetCarById
+GET http://localhost:8080/car/1
+
+### GetUsersCars
+GET http://localhost:8080/user/1/cars
+
+### GetUserWithCars
+GET http://localhost:8080/user/1/with/cars
+
+### GetHouses
+GET http://localhost:8080/houses
+
+### GetHouseById
+GET http://localhost:8080/house/1
